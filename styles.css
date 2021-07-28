@@ -1,0 +1,180 @@
+body{
+  background-color: #B5EAEA;
+  text-align: center;
+}
+h1{
+  font-family: 'Lobster', cursive;
+  font-size: 6rem;
+  color: purple;
+}
+
+h3{
+  font-family: 'Marcellus SC', serif;
+  font-size: 2rem;
+  color: grey;
+  font-weight: bold;
+}
+
+.heading{
+  padding: 3% 15%;
+}
+
+.getInput{
+  padding: 3% 15%;
+}
+
+#first-sec{
+  padding-bottom: 120px;
+}
+
+label{
+  font-size: 2rem;
+  font-family: 'Marcellus SC', serif;
+  color: grey;
+  padding-right: 30px;
+}
+
+input{
+  font-size: 2rem;
+  font-family: 'Marcellus SC', serif;
+  color: grey;
+  background-color: #FFEBC9;
+}
+
+.submitbutton{
+  text-align: center;
+  padding-top: 60px;
+}
+
+#q1,#q3,#q5,#q7,#q9{
+  padding: 3% 15%;
+  padding-top: 8%;
+  background-color: white;
+  padding-bottom: 8%;
+}
+
+.ronaldo{
+  background-image: url("https://thinkmad.in/friendship-dare/images/friendship-dare/question_images/../../dare2019/question_images/en/ae/a.jpg?v=2");
+}
+
+.Messi{
+  background-image: url("https://thinkmad.in/friendship-dare/images/friendship-dare/question_images/../../dare2019/question_images/en/ae/b.jpg?v=2");
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 250px;
+  height: 250px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
+
+h2{
+  font-size: 3rem;
+  font-family: 'Ubuntu', sans-serif;
+  padding-bottom: 10px;
+}
+
+.fb{
+  background-image: url("https://thinkmad.in/friendship-dare/images/dare2019/question_images/en/n/a.jpg?v=2");
+}
+
+.insta{
+  background-image: url("https://thinkmad.in/friendship-dare/images/dare2019/question_images/en/n/b.jpg?v=2");
+}
+
+#q2,#q4,#q6,#q8,#q10{
+  padding: 3% 15%;
+  padding-top: 8%;
+  background-color: #B5EAEA;
+  padding-bottom: 8%;
+}
+
+.veg{
+  background-image: url("https://thinkmad.in/friendship-dare/images/dare2019/question_images/en/p/a.jpg?v=2");
+}
+
+.non-veg{
+  background-image: url("https://thinkmad.in/friendship-dare/images/dare2019/question_images/en/p/b.jpg?v=2");
+}
+
+.swim{
+  background-image: url("https://thinkmad.in/friendship-dare/images/dare2019/question_images/en/t/a.jpg?v=2");
+}
+
+.cycle{
+  background-image: url("https://thinkmad.in/friendship-dare/images/dare2019/question_images/en/t/b.jpg?v=2");
+}
+
+.sky{
+  background-image: url("https://thinkmad.in/friendship-dare/images/dare2019/question_images/en/ac/a.jpg?v=2");
+}
+
+.bungee{
+  background-image: url("https://thinkmad.in/friendship-dare/images/dare2019/question_images/en/ac/b.jpg?v=2");
+}
+
+.beach{
+  background-image: url("https://thinkmad.in/friendship-dare/images/dare2019/question_images/en/c/a.jpg?v=2");
+}
+
+.mountain{
+  background-image: url("https://thinkmad.in/friendship-dare/images/dare2019/question_images/en/c/b.jpg?v=2");
+}
+
+.home{
+  background-image: url("https://thinkmad.in/friendship-dare/images/dare2019/question_images/en/k/a.jpg?v=2");
+}
+
+.theatre{
+  background-image: url("https://thinkmad.in/friendship-dare/images/dare2019/question_images/en/k/b.jpg?v=2");
+}
+
+.iron{
+  background-image: url("ironman.jpg");
+}
+
+.cap{
+  background-image: url("https://i.pinimg.com/236x/23/1a/92/231a92573787b1c4f4f4add760dea2df.jpg");
+}
+
+.sj{
+  background-image: url("https://i.pinimg.com/236x/fc/66/1a/fc661a6577d7d891f3a3d05fff180e68.jpg");
+}
+
+.angelina{
+  background-image: url("https://thestarinfo.com/wp-content/uploads/2019/04/Angelina-Jolie-300x298.jpg");
+}
+
+.darj{
+  background-image: url("dar.jpg");
+}
+
+.gangtok{
+  background-image: url("sikkim.jpg");
+}
+
+.wp{
+  padding-top: 50px;
+  background-image: url("What.png");
+}
+
+.atag{
+  color: grey;
+  opacity: 0.5;
+}
